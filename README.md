@@ -1,2 +1,2 @@
-# SkyVilleTexture
-SkyVille Texture Pack
+# SkyVille Texture
+Texture ufficiale della modalità!

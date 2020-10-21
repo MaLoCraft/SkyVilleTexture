@@ -1,0 +1,35 @@
+{
+	"credit": "Made for mc.malocraft.net by @D4nyZ on telegram.",
+	"textures": {
+		"0": "blocks/nastro_assets_post",
+		"1": "blocks/acacia_fence_post_asset",
+		"particle": "blocks/nastro"
+	},
+	"elements": [
+		{
+			"name": "Center post",
+			"from": [6, 0, 6],
+			"to": [10, 16, 10],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#1", "cullface": "up"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#1", "cullface": "down"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0.5, 0.5, 0.5]
+		}
+	},
+	"groups": [0,
+		{
+			"name": "acacia_fence_side",
+			"origin": [8, 8, 8],
+			"children": []
+		}
+	]
+}

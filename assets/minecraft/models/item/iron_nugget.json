@@ -1,0 +1,23 @@
+{
+	"credit": "Made for mc.malocraft.net by @D4nyZ on telegram.",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "items/iron_nugget"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [95, -176, 0],
+			"translation": [0, -1.5, -2.5],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [95, 176, 0],
+			"translation": [0, -1.5, -2.5],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [0.7, 0.7, 0.7]
+		}
+	}
+}
