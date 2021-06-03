@@ -1,0 +1,12 @@
+{
+    "parent": "item/handheld",
+	"overrides": [
+		{
+		   "predicate": {
+		      "damaged": 1,
+		      "damage": 2
+		   },
+		   "model": "item/diamond_jewel"
+		}
+	]
+}
