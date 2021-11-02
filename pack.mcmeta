@@ -1,0 +1,18 @@
+{
+	"pack": {
+		"pack_format": 6,
+		"description": "§7Texture Ufficiale di  §6§lSky§3§lVille.\n §a§lVersion: §a1.4"
+	},
+	"language": {
+      "en_us": {
+        "name": "English",
+        "region": "en/us",
+        "bidirectional": false
+    },
+      "it_it": {
+        "name": "Italiano",
+        "region": "it/it",
+        "bidirectional": false
+    }
+  }
+}

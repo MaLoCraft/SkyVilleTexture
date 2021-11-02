@@ -1,0 +1,49 @@
+{
+	"credit": "Made for mc.malocraft.net by @D4nyZ on telegram.",
+	"textures": {
+		"0": "items/play_boy",
+		"particle": "items/play_boy"
+	},
+	"elements": [
+		{
+			"from": [3, 0, 5],
+			"to": [13, 16, 11],
+			"faces": {
+				"north": {"uv": [1.5, 3.5, 6.5, 12.5], "texture": "#0"},
+				"east": {"uv": [6.5, 3.5, 9.5, 12.5], "texture": "#0"},
+				"south": {"uv": [9.5, 3.5, 14.5, 12.5], "texture": "#0"},
+				"west": {"uv": [6.5, 3.5, 9.5, 12.5], "texture": "#0"},
+				"up": {"uv": [1.5, 0.5, 6.5, 3.5], "texture": "#0"},
+				"down": {"uv": [1.5, 0.5, 6.5, 3.5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -180, 0],
+			"translation": [0, 1.5, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -180, 0],
+			"translation": [0, 1.5, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 124, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 124, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"ground": {
+			"translation": [0, 2.5, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"gui": {
+			"rotation": [23.5, -134.75, 0],
+			"scale": [0.7, 0.7, 0.8]
+		}
+	}
+}
