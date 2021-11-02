@@ -131,6 +131,12 @@
             "driving"
         ]
     },
+    "driving2": {
+        "replace": false,
+        "sounds": [
+            "driving2"
+        ]
+    },
     "engine": {
         "replace": false,
         "sounds": [
@@ -155,10 +161,118 @@
             "siren"
         ]
     },
+    "lightsaberstart": {
+        "replace": false,
+        "sounds": [
+            "lightsaberstart"
+        ]
+    },
+    "saberhit": {
+        "replace": false,
+        "sounds": [
+            "saberhit"
+        ]
+    },
+    "sithsaberstart": {
+        "replace": false,
+        "sounds": [
+            "sithsaberstart"
+        ]
+    },
+    "reloadclick": {
+        "replace": false,
+        "sounds": [
+            "reloadclick"
+        ]
+    },
+    "reloadmagclick": {
+        "replace": false,
+        "sounds": [
+            "reloadmagclick"
+        ]
+    },
+    "outofammoclick": {
+        "replace": false,
+        "sounds": [
+            "outofammoclick"
+        ]
+    },
+    "openbag": {
+        "replace": false,
+        "sounds": [
+            "openbag"
+        ]
+    },
+    "partyshot": {
+        "replace": false,
+        "sounds": [
+            "partyshot"
+        ]
+    },
+    "thumper": {
+        "replace": false,
+        "sounds": [
+            "thumper"
+        ]
+    },
     "bulletsilence": {
         "replace": false,
         "sounds": [
             "bulletsilence"
+        ]
+    },
+    "reloadak47": {
+        "replace": false,
+        "sounds": [
+            "reloadak47"
+        ]
+    },
+    "reloadslide": {
+        "replace": false,
+        "sounds": [
+            "reloadslide"
+        ]
+    },
+    "bulletmauser": {
+        "replace": false,
+        "sounds": [
+            "bulletmauser"
+        ]
+    },
+    "bulletak47": {
+        "replace": false,
+        "sounds": [
+            "bulletak47"
+        ]
+    },
+    "reloadfn": {
+        "replace": false,
+        "sounds": [
+            "reloadfn"
+        ]
+    },
+    "reloadm16": {
+        "replace": false,
+        "sounds": [
+            "reloadm16"
+        ]
+    },
+    "reloadshotgun": {
+        "replace": false,
+        "sounds": [
+            "reloadshotgun"
+        ]
+    },
+    "bulletshotgun": {
+        "replace": false,
+        "sounds": [
+            "bulletshotgun"
+        ]
+    },
+    "reloadshell": {
+        "replace": false,
+        "sounds": [
+            "reloadshell"
         ]
     }
 }
